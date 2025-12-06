@@ -1,1 +1,1 @@
-python youtube_auto_bot.py
+pip install -r requirements.txt && python youtube_auto_bot.py
